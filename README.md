@@ -1,4 +1,4 @@
-### 📊 GitHub Statistics of @schwienernitzel
+### 📊 GitHub Statistics of [@schwienernitzel](https://github.com/schwienernitzel)
 
 <table>
   <tr>
